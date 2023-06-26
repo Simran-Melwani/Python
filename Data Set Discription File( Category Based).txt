@@ -1,0 +1,27 @@
+General Category Based Dataset Description
+
+Dataset Description: This dataset contains information about various price.oye products across different categories, including mobiles, smartwatches, laptops, and more. It provides details such as the brand, product name, new price, previous price, discount percentage, discount, availability, product URL, and image link for each product.
+
+Dataset Contents:
+Brand: The brand name of the product.
+Product Name: The name or model of the product.
+New Price: The current price of the product.
+Previous Price: The previous price of the product.
+Discount Percentage: The discount percentage applied to the product.
+Discount: The amount of discount applied to the product.
+Availability: Indicates the availability of the product.
+Product URL: The URL link to the product page.
+Product Image Link: The URL link to the product image.
+
+Source: The dataset was compiled from various https://priceoye.pk/ The data collection process involved web scraping, data cleaning, and Visualization.
+
+Acknowledgements: We would like to thank the data sources for providing the information used in this dataset.
+
+Usage: This dataset can be used for a wide range of analytical tasks we visualize below items:
+New Price and Previous Price Analysis By Brands.
+Discount Percentages by Brands
+Brands within the User Price Range
+Models of Selected Brand (Given by User) within Price Range
+
+
+Note: Category: The category of the price.oye product, which can be mobiles, smartwatches, laptops, or any other category specified by the user.
